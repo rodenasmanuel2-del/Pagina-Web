@@ -1,0 +1,5 @@
+customer_id,customer_type,name,phone,email,notes,is_active
+C-0001,B2C,Cliente Mostrador,,,Genérico para ventas de mostrador,TRUE
+C-0002,B2B,Reparaciones López,+34 6XX XXX XXX,contacto@reparacioneslopez.es,Compra recurrente,TRUE
+C-0003,B2B,Hostelería Martínez,+34 6YY YYY YYY,compras@hosteleriamartinez.es,Compra en volumen (frigos),TRUE
+C-0004,B2C,Cliente Online,,,Genérico para online,TRUE

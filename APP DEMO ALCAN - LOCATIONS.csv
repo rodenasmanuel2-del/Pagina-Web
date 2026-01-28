@@ -1,0 +1,7 @@
+location_id,location_name,type,zone,aisle,shelf,level,notes,is_active
+L-0001,Tienda - Exposición,Tienda,A,EXPO,,,Zona visible al cliente,TRUE
+L-0002,Almacén - Zona A Pasillo 1,Almacén,A,1,,,Stock principal,TRUE
+L-0003,Almacén - Zona A Pasillo 2,Almacén,A,2,,,Stock secundario,TRUE
+L-0004,Almacén - Zona B Pasillo 1,Almacén,B,1,,,Electrodomésticos grandes,TRUE
+L-0005,Taller/Revisión,Taller,B,TALLER,,,Pendiente de chequeo,TRUE
+L-0006,Zona Devoluciones,Almacén,C,RET,,,En espera de decisión,TRUE

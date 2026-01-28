@@ -1,0 +1,31 @@
+model_id,brand,model_name,category,photo_url,sku_internal,default_sale_price,min_stock,notes,is_active
+M-0001,Beko,Beko FRI-504,Frigorífico,,SKU-BEK-FRI-001,399,2,,TRUE
+M-0002,Siemens,Siemens HOR-696,Horno,,SKU-SIE-HOR-002,129,6,Alta rotación,TRUE
+M-0003,Bosch,Bosch LAV-544,Lavadora,,SKU-BOS-LAV-003,249,2,Alta rotación,TRUE
+M-0004,Siemens,Siemens MIC-534,Microondas,,SKU-SIE-MIC-004,129,6,,TRUE
+M-0005,Samsung,Samsung SEC-742,Secadora,,SKU-SAM-SEC-005,349,2,Muy demandado,TRUE
+M-0006,Whirlpool,Whirlpool LAV-326,Lavadora,,SKU-WHI-LAV-006,129,6,Alta rotación,TRUE
+M-0007,Balay,Balay LAV-247,Lavavajillas,,SKU-BAL-LAV-007,299,2,Muy demandado,TRUE
+M-0008,Balay,Balay MIC-935,Microondas,,SKU-BAL-MIC-008,399,3,,TRUE
+M-0009,Samsung,Samsung HOR-199,Horno,,SKU-SAM-HOR-009,299,8,,TRUE
+M-0010,Bosch,Bosch MIC-310,Microondas,,SKU-BOS-MIC-010,279,8,Muy demandado,TRUE
+M-0011,Whirlpool,Whirlpool HOR-576,Horno,,SKU-WHI-HOR-011,349,5,Revisar estética lateral,TRUE
+M-0012,Balay,Balay FRI-913,Frigorífico,,SKU-BAL-FRI-012,169,8,Alta rotación,TRUE
+M-0013,Siemens,Siemens MIC-407,Microondas,,SKU-SIE-MIC-013,299,5,Revisar estética lateral,TRUE
+M-0014,Indesit,Indesit HOR-723,Horno,,SKU-IND-HOR-014,149,2,Muy demandado,TRUE
+M-0015,Whirlpool,Whirlpool FRI-875,Frigorífico,,SKU-WHI-FRI-015,229,3,Suele venir con bisagra floja,TRUE
+M-0016,Whirlpool,Whirlpool LAV-784,Lavadora,,SKU-WHI-LAV-016,149,6,Muy demandado,TRUE
+M-0017,Beko,Beko HOR-811,Horno,,SKU-BEK-HOR-017,229,6,Suele venir con bisagra floja,TRUE
+M-0018,Indesit,Indesit LAV-960,Lavadora,,SKU-IND-LAV-018,149,4,Suele venir con bisagra floja,TRUE
+M-0019,Siemens,Siemens LAV-848,Lavadora,,SKU-SIE-LAV-019,449,4,Muy demandado,TRUE
+M-0020,Indesit,Indesit HOR-833,Horno,,SKU-IND-HOR-020,249,8,Revisar estética lateral,TRUE
+M-0021,Bosch,Bosch LAV-463,Lavavajillas,,SKU-BOS-LAV-021,169,6,,TRUE
+M-0022,Indesit,Indesit LAV-323,Lavadora,,SKU-IND-LAV-022,499,4,Alta rotación,TRUE
+M-0023,Samsung,Samsung LAV-500,Lavavajillas,,SKU-SAM-LAV-023,279,2,Alta rotación,TRUE
+M-0024,Indesit,Indesit LAV-662,Lavavajillas,,SKU-IND-LAV-024,199,3,Suele venir con bisagra floja,TRUE
+M-0025,Balay,Balay SEC-525,Secadora,,SKU-BAL-SEC-025,229,8,Suele venir con bisagra floja,TRUE
+M-0026,Samsung,Samsung FRI-184,Frigorífico,,SKU-SAM-FRI-026,169,3,Alta rotación,TRUE
+M-0027,Samsung,Samsung LAV-596,Lavadora,,SKU-SAM-LAV-027,349,3,Revisar estética lateral,TRUE
+M-0028,Balay,Balay LAV-249,Lavadora,,SKU-BAL-LAV-028,249,6,Revisar estética lateral,TRUE
+M-0029,Beko,Beko FRI-807,Frigorífico,,SKU-BEK-FRI-029,299,6,,TRUE
+M-0030,Indesit,Indesit SEC-917,Secadora,,SKU-IND-SEC-030,299,5,Suele venir con bisagra floja,TRUE

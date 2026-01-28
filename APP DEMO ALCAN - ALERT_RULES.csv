@@ -1,0 +1,3 @@
+rule_id,rule_type,category,model_id,threshold_value,threshold_unit,is_active,notes
+AR-0001,LOW_STOCK,,,5,units,TRUE,"Si stock disponible < 5, crear alerta"
+AR-0002,STALE_STOCK,,,45,days,TRUE,"Si unidad lleva +45 días disponible sin vender, alerta"

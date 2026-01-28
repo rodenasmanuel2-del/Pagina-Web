@@ -1,0 +1,5 @@
+user_id,full_name,role,is_active
+USR-0001,Encargado Almacén,WAREHOUSE,TRUE
+USR-0002,Vendedor 1,SALES,TRUE
+USR-0003,Vendedor 2,SALES,TRUE
+USR-0004,Dueño,ADMIN,TRUE
